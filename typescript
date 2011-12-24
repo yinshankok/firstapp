@@ -1,0 +1,28 @@
+Script started on Sat Dec 24 12:42:14 2011
+[?1034hbash-3.2$ 
+bash-3.2$ plugin install svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/p lugins/rfacebook
+bash: plugin: command not found
+bash-3.2$ install
+usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 file2
+       install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 ... fileN directory
+       install -d [-v] [-g group] [-m mode] [-o owner] directory ...
+bash-3.2$ plugin install svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/p lugins/rfacebook[Ainstall[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cplugin install svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/pllugins/rfacebook[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plu[1Pgins/rfacebook[A[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plug[1Pins/rfacebook[A[Cnstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugi[1Pns/rfacebook[A[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugin[1Ps/rfacebook[A[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins[1P/rfacebook[A[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/[1Prfacebook[A[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/r[1Pfacebook[A[C
+
+usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 file2
+       install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 ... fileN directory
+       install -d [-v] [-g group] [-m mode] [-o owner] directory ...
+bash-3.2$  ..
+bash: ..: command not found
+bash-3.2$ plugin install svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/p lugins/rfacebook[K
+bash: plugin: command not found
+bash-3.2$ xit
+bash: xit: command not found
+bash-3.2$ exit
+exit
+
+Script done on Sat Dec 24 12:44:51 2011
